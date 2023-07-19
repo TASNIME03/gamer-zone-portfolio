@@ -37,3 +37,27 @@ body{
      margin-right: 50px;
      text-decoration: none;
 }
+.banner{
+     padding:35px 35px 35px 150px ;
+     display: flex;
+     align-items: center;
+}
+/* .banner-descript{
+     display: grid;
+} */
+.button{
+     display: flex;
+     gap: 20px;
+}
+.btn2{
+     border-radius: 8px;
+     background:#2f7999;
+     border: 0;
+     color: white;
+     font-size: 20px;
+     font-weight: 700;
+     padding: 16px 35px;
+}
+.banner-img{
+     width: 650px;
+}
