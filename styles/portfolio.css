@@ -1,0 +1,39 @@
+body{
+     font-family: 'Cabin', sans-serif;
+}
+.pink-text{
+     color: rgb(212, 20, 116);
+}
+.btn-primary{
+     border-radius: 8px;
+     background:rgb(235, 63, 149) ;
+     border: 0;
+     color: white;
+     font-size: 20px;
+     font-weight: 700;
+     padding: 16px 35px;
+}
+/* nav related styles */
+.logo{
+     display: flex;
+     gap: 20px;
+}
+.container{
+     display: flex;
+     align-items:center ;
+     justify-content: space-between;
+}
+.web-title{
+     color: black;
+     font-size: 50px;
+     font-weight: 900;
+}
+.menu > ul{
+     display: flex;
+     align-items: center;
+}
+.menu li{
+     list-style: none;
+     margin-right: 50px;
+     text-decoration: none;
+}
