@@ -284,3 +284,59 @@ margin-left: 650px;
           grid-template-columns: repeat(2, 1fr);
      }
 }
+@media screen and (min-width: 578px) and (max-width:992px) {
+     .logo{
+          display: grid;
+          grid-template-columns: repeat(2, 1fr);
+     }
+     .menu ul{
+          display: grid;
+          grid-template-columns: repeat(2, 1fr);
+     }
+     .banner-img{
+          width: 100%;
+     }
+     .banner-descript{
+          display: grid;
+          grid-template-columns: repeat(2, 1fr);
+     }
+     .button{
+         display: grid;
+         grid-template-columns: repeat(2, 1fr);
+     }
+     .banner-img{
+          width: 100%;
+     }
+     .online{
+          display: grid;
+          grid-template-columns: repeat(2, 1fr);
+     }
+     .online-games img{
+          display: grid;
+          grid-template-columns: repeat(2, 1fr);
+     }
+     .play{
+          display: grid;
+          grid-template-columns: repeat(2, 1fr);
+     }
+     .play-container{
+          display: grid;
+          grid-template-columns: repeat(3,1fr);
+     }
+     .button-container{
+          display: grid;
+          grid-template-columns: repeat(3, 1fr);
+     }
+     .logo1{
+          display: grid;
+          grid-template-columns: repeat(2, 1fr);
+     }
+     .white > li{
+          display: grid;
+          grid-template-columns: repeat(4, 1fr);
+     }
+     .grey > li{
+          display: grid;
+          grid-template-columns: repeat(3, 1fr);
+     }    
+}
