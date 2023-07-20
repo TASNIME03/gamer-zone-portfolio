@@ -255,7 +255,7 @@ margin-left: 650px;
           display: grid;
           grid-template-columns: repeat(1, 1fr);
      }
-     .online-games img{
+     .online-games .img{
           display: grid;
           grid-template-columns: repeat(1, 1fr);
      }
@@ -311,7 +311,7 @@ margin-left: 650px;
           display: grid;
           grid-template-columns: repeat(2, 1fr);
      }
-     .online-games img{
+     .online-games .img{
           display: grid;
           grid-template-columns: repeat(2, 1fr);
      }
